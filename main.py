@@ -1,3 +1,4 @@
+import asyncio
 import json
 import logging
 import os
@@ -102,11 +103,31 @@ async def auto_push(application: Application) -> None:
     await application.bot.send_message(chat_id=CHANNEL_ID, text=format_food(post))
 
 
+async def on_startup(application: Application) -> None:
+    # Initialize scheduler after event loop is running to avoid startup issues.
+    scheduler = AsyncIOScheduler(event_loop=asyncio.get_running_loop())
+    scheduler.add_job(auto_push, "interval", minutes=30, args=[application])
+    scheduler.start()
+    application.bot_data["scheduler"] = scheduler
+
+
+async def on_shutdown(application: Application) -> None:
+    scheduler = application.bot_data.get("scheduler")
+    if scheduler and scheduler.running:
+        scheduler.shutdown(wait=False)
+
+
 def main() -> None:
     if not BOT_TOKEN:
         raise RuntimeError("缺少 BOT_TOKEN。請先設定環境變數 BOT_TOKEN。")
 
-    application = Application.builder().token(BOT_TOKEN).build()
+    application = (
+        Application.builder()
+        .token(BOT_TOKEN)
+        .post_init(on_startup)
+        .post_shutdown(on_shutdown)
+        .build()
+    )
 
     application.add_handler(CommandHandler("start", start))
     application.add_handler(CommandHandler("help", help_command))
@@ -116,11 +137,6 @@ def main() -> None:
     application.add_handler(CommandHandler("random", random_food))
     application.add_handler(CommandHandler("next", next_food))
     application.add_handler(CommandHandler("stop", stop))
-
-    scheduler = AsyncIOScheduler()
-    scheduler.add_job(auto_push, "interval", minutes=30, args=[application])
-    scheduler.start()
-    application.bot_data["scheduler"] = scheduler
 
     application.run_polling()
 

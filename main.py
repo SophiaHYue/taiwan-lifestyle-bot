@@ -1,12 +1,9 @@
 import time
-import requests
 from telegram import Bot
 
-# Telegram Bot Token
 BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 CHANNEL_ID = "@taiwanliving"
 
-# 模擬資料來源（可改成 Google Sheet 或 API）
 posts = [
     {
         "location": "台北市中山區 XX 咖啡館",

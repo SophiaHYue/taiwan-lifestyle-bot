@@ -1,0 +1,402 @@
+[
+  {
+    "name": "鼎泰豐小籠包",
+    "address": "台北市信義路二段194號",
+    "feature": "皮薄湯汁多，世界知名小籠包",
+    "review": "服務專業，品質穩定",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Din_Tai_Fung_xiaolongbao.jpg",
+    "video": "https://www.youtube.com/watch?v=FfQvQyqgY3g"
+  },
+  {
+    "name": "士林夜市豪大雞排",
+    "address": "台北市士林區基河路",
+    "feature": "超大雞排，外酥內嫩",
+    "review": "夜市人氣美食，必吃",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Taiwan_fried_chicken.jpg",
+    "video": "https://www.youtube.com/watch?v=6uQkzYwYw9M"
+  },
+  {
+    "name": "金峰滷肉飯",
+    "address": "台北市中正區羅斯福路一段10號",
+    "feature": "滷汁香濃，飯粒Q彈",
+    "review": "在地人最愛，價格親民",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Taiwan_braised_pork_rice.jpg",
+    "video": "https://www.youtube.com/watch?v=QkZlZkXz9nA"
+  },
+  {
+    "name": "花蓮炸彈蔥油餅",
+    "address": "花蓮市復興街",
+    "feature": "外酥內嫩，蛋黃流心",
+    "review": "排隊必吃，價格親民",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Taiwan_scallion_pancake.jpg",
+    "video": "https://www.youtube.com/watch?v=7lQvXyqgYwM"
+  },
+  {
+    "name": "台南度小月擔仔麵",
+    "address": "台南市中正路16號",
+    "feature": "百年老店，傳統擔仔麵",
+    "review": "湯頭鮮美，肉燥香濃",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Taiwan_danzai_noodles.jpg",
+    "video": "https://www.youtube.com/watch?v=9kQvYyqgYwN"
+  },
+  {
+    "name": "台中宮原眼科冰淇淋",
+    "address": "台中市中區中山路20號",
+    "feature": "創意冰淇淋，口味多樣",
+    "review": "環境文青，甜品精緻",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Taichung_Miyahara_IceCream.jpg",
+    "video": "https://www.youtube.com/watch?v=8kQvYyqgYwO"
+  },
+  {
+    "name": "高雄鴨肉珍",
+    "address": "高雄市鹽埕區五福四路",
+    "feature": "鴨肉飯，湯頭鮮美",
+    "review": "在地人推薦，平價美食",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Taiwan_duck_rice.jpg",
+    "video": "https://www.youtube.com/watch?v=AkQvYyqgYwP"
+  },
+  {
+    "name": "台北永康街芒果冰",
+    "address": "台北市大安區永康街",
+    "feature": "新鮮芒果搭配刨冰",
+    "review": "夏季必吃，清涼消暑",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Taiwan_mango_shaved_ice.jpg",
+    "video": "https://www.youtube.com/watch?v=BkQvYyqgYwQ"
+  },
+  {
+    "name": "嘉義火雞肉飯",
+    "address": "嘉義市中山路",
+    "feature": "火雞肉絲搭配滷汁",
+    "review": "嘉義特色，香氣十足",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Taiwan_turkey_rice.jpg",
+    "video": "https://www.youtube.com/watch?v=CkQvYyqgYwR"
+  },
+  {
+    "name": "淡水阿給",
+    "address": "新北市淡水區中正路",
+    "feature": "油豆腐塞粉絲，淋上特製醬汁",
+    "review": "淡水老街必吃小吃",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Taiwan_Agei.jpg",
+    "video": "https://www.youtube.com/watch?v=DkQvYyqgYwS"
+  },
+  {
+    "name": "基隆廟口天婦羅",
+    "address": "基隆市仁愛區愛四路",
+    "feature": "外酥內彈，甜辣醬提味",
+    "review": "夜市經典，份量剛好",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Taiwan_tempura.jpg",
+    "video": "https://www.youtube.com/watch?v=EkQvYyqgYwT"
+  },
+  {
+    "name": "宜蘭蔥油餅",
+    "address": "宜蘭縣宜蘭市神農路",
+    "feature": "三星蔥香濃郁，餅皮酥脆",
+    "review": "香氣十足，現煎最好吃",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Scallion_pancake_Taiwan.jpg",
+    "video": "https://www.youtube.com/watch?v=FkQvYyqgYwU"
+  },
+  {
+    "name": "羅東林場肉羹",
+    "address": "宜蘭縣羅東鎮中正北路",
+    "feature": "羹湯滑順，肉羹扎實",
+    "review": "在地老字號，口味穩定",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Taiwan_thick_soup.jpg",
+    "video": "https://www.youtube.com/watch?v=GkQvYyqgYwV"
+  },
+  {
+    "name": "新竹城隍廟米粉",
+    "address": "新竹市北區中山路",
+    "feature": "米粉Q彈，湯頭清甜",
+    "review": "城隍廟商圈必吃",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Taiwan_rice_noodle_soup.jpg",
+    "video": "https://www.youtube.com/watch?v=HkQvYyqgYwW"
+  },
+  {
+    "name": "苗栗客家粄條",
+    "address": "苗栗縣苗栗市中正路",
+    "feature": "粄條滑嫩，油蔥香濃",
+    "review": "客家風味道地",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Taiwan_hakka_noodles.jpg",
+    "video": "https://www.youtube.com/watch?v=IkQvYyqgYwX"
+  },
+  {
+    "name": "鹿港蚵仔煎",
+    "address": "彰化縣鹿港鎮中山路",
+    "feature": "蚵仔鮮甜，醬料微甜",
+    "review": "外皮微酥，口感層次好",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Oyster_omelette.jpg",
+    "video": "https://www.youtube.com/watch?v=JkQvYyqgYwY"
+  },
+  {
+    "name": "南投意麵",
+    "address": "南投縣南投市民族路",
+    "feature": "麵條Q彈，肉燥鹹香",
+    "review": "平價好吃，回訪率高",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Taiwan_noodles.jpg",
+    "video": "https://www.youtube.com/watch?v=KkQvYyqgYwZ"
+  },
+  {
+    "name": "斗六魷魚羹",
+    "address": "雲林縣斗六市中華路",
+    "feature": "魷魚厚實，羹湯甘甜",
+    "review": "在地小吃代表",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Squid_soup_Taiwan.jpg",
+    "video": "https://www.youtube.com/watch?v=LkQvYyqgYwa"
+  },
+  {
+    "name": "北港麻油雞",
+    "address": "雲林縣北港鎮中山路",
+    "feature": "麻油香濃，雞肉軟嫩",
+    "review": "冬季進補首選",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Sesame_oil_chicken_soup.jpg",
+    "video": "https://www.youtube.com/watch?v=MkQvYyqgYwb"
+  },
+  {
+    "name": "嘉義砂鍋魚頭",
+    "address": "嘉義市西區文化路",
+    "feature": "湯頭濃厚，配料豐富",
+    "review": "多人聚餐很適合",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Fish_head_hotpot.jpg",
+    "video": "https://www.youtube.com/watch?v=NkQvYyqgYwc"
+  },
+  {
+    "name": "台南牛肉湯",
+    "address": "台南市中西區國華街",
+    "feature": "溫體牛現沖，湯清味鮮",
+    "review": "早餐系神級美食",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tainan_beef_soup.jpg",
+    "video": "https://www.youtube.com/watch?v=OkQvYyqgYwd"
+  },
+  {
+    "name": "台南蝦仁飯",
+    "address": "台南市中西區海安路",
+    "feature": "蝦香與肉燥融合，鹹甜平衡",
+    "review": "越吃越涮嘴",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Shrimp_rice_Taiwan.jpg",
+    "video": "https://www.youtube.com/watch?v=PkQvYyqgYwe"
+  },
+  {
+    "name": "高雄汕頭火鍋",
+    "address": "高雄市新興區中山一路",
+    "feature": "扁魚湯底香氣濃，沙茶沾醬經典",
+    "review": "老店風味，食材新鮮",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Taiwan_hotpot.jpg",
+    "video": "https://www.youtube.com/watch?v=QkQvYyqgYwf"
+  },
+  {
+    "name": "屏東萬巒豬腳",
+    "address": "屏東縣萬巒鄉民和路",
+    "feature": "皮Q肉嫩，蒜蓉醬提味",
+    "review": "聚餐必點，份量十足",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Braised_pork_knuckle.jpg",
+    "video": "https://www.youtube.com/watch?v=RkQvYyqgYwg"
+  },
+  {
+    "name": "潮州燒冷冰",
+    "address": "屏東縣潮州鎮新生路",
+    "feature": "熱配料加刨冰，口感對比強",
+    "review": "在地特色甜品，值得一試",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Taiwan_shaved_ice.jpg",
+    "video": "https://www.youtube.com/watch?v=SkQvYyqgYwh"
+  },
+  {
+    "name": "台東池上便當",
+    "address": "台東縣池上鄉中正路",
+    "feature": "池上米香Q，配菜簡單好吃",
+    "review": "鐵路便當代表作",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Taiwan_railway_bento.jpg",
+    "video": "https://www.youtube.com/watch?v=TkQvYyqgYwi"
+  },
+  {
+    "name": "成功旗魚生魚片",
+    "address": "台東縣成功鎮中華路",
+    "feature": "旗魚鮮甜，切片厚實",
+    "review": "海港現流，鮮度很高",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Sashimi.jpg",
+    "video": "https://www.youtube.com/watch?v=UkQvYyqgYwj"
+  },
+  {
+    "name": "花蓮公正包子",
+    "address": "花蓮市中山路",
+    "feature": "小籠包皮薄，內餡多汁",
+    "review": "宵夜排隊名店",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Steamed_buns.jpg",
+    "video": "https://www.youtube.com/watch?v=VkQvYyqgYwk"
+  },
+  {
+    "name": "瑞穗鮮奶饅頭",
+    "address": "花蓮縣瑞穗鄉中正南路",
+    "feature": "奶香濃郁，口感鬆軟",
+    "review": "早餐點心都適合",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Mantou.jpg",
+    "video": "https://www.youtube.com/watch?v=WkQvYyqgYwl"
+  },
+  {
+    "name": "澎湖仙人掌冰",
+    "address": "澎湖縣馬公市中正路",
+    "feature": "酸甜清爽，顏色吸睛",
+    "review": "離島必吃特色冰品",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Cactus_ice_cream.jpg",
+    "video": "https://www.youtube.com/watch?v=XkQvYyqgYwm"
+  },
+  {
+    "name": "澎湖花枝丸",
+    "address": "澎湖縣馬公市三民路",
+    "feature": "花枝塊明顯，彈牙多汁",
+    "review": "現炸最美味",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Fried_squid_ball.jpg",
+    "video": "https://www.youtube.com/watch?v=YkQvYyqgYwn"
+  },
+  {
+    "name": "金門廣東粥",
+    "address": "金門縣金城鎮民族路",
+    "feature": "米粒綿密化開，口感滑順",
+    "review": "早餐首選，暖胃好吃",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Congee.jpg",
+    "video": "https://www.youtube.com/watch?v=ZkQvYyqgYwo"
+  },
+  {
+    "name": "金門蚵嗲",
+    "address": "金門縣金寧鄉伯玉路",
+    "feature": "外皮酥脆，蚵仔鮮甜",
+    "review": "下午茶點心很涮嘴",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Oyster_fritter.jpg",
+    "video": "https://www.youtube.com/watch?v=alQvYyqgYwp"
+  },
+  {
+    "name": "馬祖老酒麵線",
+    "address": "連江縣南竿鄉介壽村",
+    "feature": "老酒香氣濃，麵線滑順",
+    "review": "風味獨特，暖身首選",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Misuah.jpg",
+    "video": "https://www.youtube.com/watch?v=blQvYyqgYwq"
+  },
+  {
+    "name": "馬祖繼光餅",
+    "address": "連江縣北竿鄉塘岐村",
+    "feature": "外脆內軟，可夾蛋夾肉",
+    "review": "在地特色麵食，方便帶著走",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Fried_bread_Taiwan.jpg",
+    "video": "https://www.youtube.com/watch?v=clQvYyqgYwr"
+  },
+  {
+    "name": "台北胡椒餅",
+    "address": "台北市萬華區和平西路",
+    "feature": "炭烤香氣，肉汁豐富",
+    "review": "外皮酥脆，趁熱最好吃",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Pepper_bun.jpg",
+    "video": "https://www.youtube.com/watch?v=dlQvYyqgYws"
+  },
+  {
+    "name": "台北麻辣鴨血",
+    "address": "台北市中山區林森北路",
+    "feature": "鴨血滑嫩，湯底麻香",
+    "review": "重口味愛好者必試",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Spicy_hotpot.jpg",
+    "video": "https://www.youtube.com/watch?v=elQvYyqgYwt"
+  },
+  {
+    "name": "新北九份芋圓",
+    "address": "新北市瑞芳區基山街",
+    "feature": "芋圓Q彈，地瓜圓香甜",
+    "review": "九份老街人氣甜品",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Taro_ball_dessert.jpg",
+    "video": "https://www.youtube.com/watch?v=flQvYyqgYwu"
+  },
+  {
+    "name": "新北深坑臭豆腐",
+    "address": "新北市深坑區深坑街",
+    "feature": "外酥內嫩，發酵香氣濃",
+    "review": "搭配泡菜更對味",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Stinky_tofu.jpg",
+    "video": "https://www.youtube.com/watch?v=glQvYyqgYwv"
+  },
+  {
+    "name": "桃園大溪豆干",
+    "address": "桃園市大溪區和平路",
+    "feature": "豆香濃郁，滷汁入味",
+    "review": "當伴手禮很受歡迎",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Tofu_snack.jpg",
+    "video": "https://www.youtube.com/watch?v=hlQvYyqgYww"
+  },
+  {
+    "name": "桃園中壢牛肉麵",
+    "address": "桃園市中壢區中平路",
+    "feature": "湯濃肉大塊，麵體Q彈",
+    "review": "CP值高，份量充足",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Beef_noodle_soup.jpg",
+    "video": "https://www.youtube.com/watch?v=ilQvYyqgYwx"
+  },
+  {
+    "name": "新竹貢丸湯",
+    "address": "新竹市東區中央路",
+    "feature": "貢丸彈牙，湯頭清爽",
+    "review": "簡單卻很耐吃",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Meatball_soup.jpg",
+    "video": "https://www.youtube.com/watch?v=jlQvYyqgYwy"
+  },
+  {
+    "name": "苗栗三義客家小炒",
+    "address": "苗栗縣三義鄉中正路",
+    "feature": "豆干魷魚五花肉同炒，香氣濃",
+    "review": "下飯神菜，風味經典",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Hakka_stir_fry.jpg",
+    "video": "https://www.youtube.com/watch?v=klQvYyqgYwz"
+  },
+  {
+    "name": "彰化肉圓",
+    "address": "彰化縣彰化市陳稜路",
+    "feature": "外皮Q彈，內餡扎實",
+    "review": "蒸炸各有擁護者",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bawan.jpg",
+    "video": "https://www.youtube.com/watch?v=llQvYyqgYw0"
+  },
+  {
+    "name": "南投埔里米粉",
+    "address": "南投縣埔里鎮中山路",
+    "feature": "米粉細緻，湯頭甘甜",
+    "review": "樸實耐吃，越吃越順口",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Rice_noodle.jpg",
+    "video": "https://www.youtube.com/watch?v=mlQvYyqgYw1"
+  },
+  {
+    "name": "雲林土庫鴨肉麵線",
+    "address": "雲林縣土庫鎮中山路",
+    "feature": "鴨香濃郁，麵線吸附湯汁",
+    "review": "在地人早餐愛店",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Duck_noodles.jpg",
+    "video": "https://www.youtube.com/watch?v=nlQvYyqgYw2"
+  },
+  {
+    "name": "嘉義涼麵",
+    "address": "嘉義市東區民族路",
+    "feature": "白醋與麻醬比例剛好",
+    "review": "夏天必吃，清爽開胃",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Cold_noodles.jpg",
+    "video": "https://www.youtube.com/watch?v=olQvYyqgYw3"
+  },
+  {
+    "name": "台南棺材板",
+    "address": "台南市中西區康樂街",
+    "feature": "酥炸厚片吐司盛裝奶油雞肉餡",
+    "review": "台南創意小吃代表",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Coffin_bread.jpg",
+    "video": "https://www.youtube.com/watch?v=plQvYyqgYw4"
+  },
+  {
+    "name": "高雄木瓜牛奶",
+    "address": "高雄市前金區自強一路",
+    "feature": "木瓜香濃，奶味滑順",
+    "review": "飯後來一杯超解膩",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Papaya_milk.jpg",
+    "video": "https://www.youtube.com/watch?v=qlQvYyqgYw5"
+  },
+  {
+    "name": "屏東東港黑鮪魚生魚片",
+    "address": "屏東縣東港鎮朝隆路",
+    "feature": "油脂豐厚，入口即化",
+    "review": "季節限定，鮮度驚艷",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Tuna_sashimi.jpg",
+    "video": "https://www.youtube.com/watch?v=rlQvYyqgYw6"
+  }
+]

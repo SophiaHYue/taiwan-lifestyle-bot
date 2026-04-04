@@ -27,11 +27,15 @@ index = 0
 
 
 def format_food(food: dict) -> str:
+    description = food.get("description")
+    if not description:
+        parts = [food.get("feature", ""), food.get("review", "")]
+        description = "，".join(part for part in parts if part)
+
     return (
         f"🍜 {food['name']}\n"
+        f"📝 介紹：{description}\n"
         f"📍 地址：{food['address']}\n"
-        f"✨ 特殊：{food['feature']}\n"
-        f"⭐ 評價：{food['review']}\n"
         f"🖼️ 圖片：{food['image']}\n"
         f"🎥 影片：{food['video']}"
     )
